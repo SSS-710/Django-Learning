@@ -822,6 +822,10 @@ input:where([type='file']):focus {
   background-color: rgb(236 72 153 / var(--tw-bg-opacity, 1));
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-serif {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
